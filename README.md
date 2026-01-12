@@ -8,7 +8,7 @@
 ### 📦 Project 1 – Dispatch Manager Overview
 A dashboard-style application providing a clear overview of dispatch status, workload distribution, and operational KPIs to support day-to-day logistics decision making.
 
-![Dispatch Manager Overview](https://github.com/gayashan61/TharinduGayashan/blob/main/Dispatch%20Manager%20Overview.png)
+![Dispatch Manager Overview] <img width="30" height="30" alt="image" src="https://github.com/gayashan61/TharinduGayashan/blob/main/Dispatch%20Manager%20Overview.png)" /> 
 
 ---
 
